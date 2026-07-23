@@ -1,189 +1,35 @@
-# 💫 About Me
+# 💫 About Me:
 
-Computer Science Engineering undergraduate passionate about building scalable software using the MERN Stack. Skilled in Java, Data Structures & Algorithms, React.js, Node.js, Express.js, MongoDB, REST APIs, and modern web technologies. Currently exploring Machine Learning while continuously improving problem-solving and software engineering skills.
+Building scalable software with MERN Stack • Java • DSA • AI/ML • Open Source Learner • Software Engineering
 
-- 🔭 Currently building **Full Stack MERN Applications**
-- 🌱 Learning **Machine Learning, AWS Cloud & Advanced DSA**
-- 👯 Looking to collaborate on **Open Source & Full Stack Projects**
-- 💬 Ask me about **Java, MERN Stack, React.js, Node.js & MongoDB**
-- 📫 Reach me at **ankitakaushik520@gmail.com**
-- ⚡ Fun fact: **I enjoy turning ideas into real-world web applications.**
 
----
 
-# 🌐 Connect with Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/ankita-kaushik-ba8582256/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
 
-<a href="mailto:ankitakaushik520@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+## 🌐 Socials:
 
-<a href="https://github.com/Ankita02-kaushik">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ankita-kaushik-ba8582256/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Ankita Kaushik) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankitakaushik520@gmail.com) 
 
----
 
-# 💻 Tech Stack
 
-### Languages
+# 💻 Tech Stack:
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-### Frontend
+# 📊 GitHub Stats:
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![](https://github-readme-stats.shion.dev/api?username=Ankita02-kaushik&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-### Backend
+![](https://streak-stats.demolab.com/?user=Ankita02-kaushik&theme=dark&hide_border=false)<br/>
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ankita02-kaushik&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### Database
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
-# 🚀 Featured Projects
+[![](https://komarev.com/ghpvc/?username=Ankita02-kaushik&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🚗 Car Rental Web Application
 
-- MERN Stack based Full Stack Application
-- JWT Authentication
-- Role-Based Access Control
-- REST APIs
-- Responsive UI
-- MongoDB + ImageKit Integration
 
-### 📄 Digital Resume Generator
-
-- Dynamic Resume Builder
-- Live Preview
-- Form Validation
-- Responsive Design
-
-### 🔐 Website Vulnerability Scanner
-
-- Python Based Security Tool
-- Website Scraping
-- Vulnerability Analysis
-- BeautifulSoup & Requests
-
----
-
-# 🏆 Certifications
-
-- Harvard University – CS50: Introduction to Computer Science
-- AWS Academy Cloud Foundations
-- Cisco Networking Academy – Enterprise Networking, Security & Automation
-- Tata Forage – GenAI Powered Data Analytics Job Simulation
-- Simplilearn SkillUp – Google Cloud: Introduction to Image Generation
-
----
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Ankita02-kaushik&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![](https://streak-stats.demolab.com?user=Ankita02-kaushik&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankita02-kaushik&theme=tokyonight&hide_border=true&layout=compact)
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Ankita02-kaushik&theme=tokyonight&no-frame=true&margin-w=15)
-
----
-
-# 📈 Contribution Graph
-
-[![Ankita's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ankita02-kaushik&theme=tokyo-night)](https://github.com/Ankita02-kaushik)
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Ankita02-kaushik/Ankita02-kaushik/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
-# 🌱 Currently Learning
-
-```yaml
-Learning:
-  - Advanced MERN Stack
-  - Machine Learning
-  - AWS Cloud
-  - Data Structures & Algorithms
-
-Building:
-  - Full Stack Web Applications
-  - REST APIs
-
-Exploring:
-  - Open Source
-  - System Design
-
-Open To:
-  - Software Engineering Internships
-  - Open Source Contributions
-```
-
----
-
-# 👩‍💻 Coding Profiles
-
-<p align="left">
-
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-![](https://komarev.com/ghpvc/?username=Ankita02-kaushik&style=for-the-badge&color=blueviolet)
-
-</p>
-
-<p align="center">
-
-### *"Building scalable software, one commit at a time."*
-
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
