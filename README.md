@@ -1,6 +1,12 @@
 # 💫 About Me:
 
-Building scalable software with MERN Stack • Java • DSA • AI/ML • Open Source Learner • Software Engineering
+
+Computer Science Engineering undergraduate passionate about building scalable and user-centric web applications using the MERN Stack. Skilled in Java, Data Structures & Algorithms, React.js, Node.js, Express.js, MongoDB, and REST APIs. Currently exploring Machine Learning while continuously enhancing my software engineering and problem-solving skills.
+
+- 🔭 Building Full Stack MERN Applications
+- 🌱 Learning Machine Learning & AWS Cloud
+- 💻 Solving DSA problems in Java
+- 🤝 Open to Software Engineering Internships and Open Source Contributions
 
 
 ## 🌐 Socials
