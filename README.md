@@ -66,8 +66,9 @@ Building scalable software with MERN Stack • Java • DSA • AI/ML • Open S
 
 ![](https://streak-stats.demolab.com/?user=Ankita02-kaushik&theme=dark&hide_border=false)<br/>
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ankita02-kaushik&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+![](https://komarev.com/ghpvc/?username=Ankita02-kaushik&style=for-the-badge&color=blue)
 
 
 ---
