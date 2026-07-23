@@ -68,7 +68,7 @@ Building scalable software with MERN Stack • Java • DSA • AI/ML • Open S
 
 
 
-![](https://komarev.com/ghpvc/?username=Ankita02-kaushik&style=for-the-badge&color=blue)
+![](https://komarev.com/ghpvc/?username=Ankita02-kaushik&style=for-the-badge&color=8A2BE2)
 
 
 ---
